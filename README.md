@@ -25,3 +25,7 @@ Steps :
 6. if you use smaller JSON string object, it will be ok.
 
 ![Image](https://github.com/DannyYang/PMR_CreateUserStoredLargeData/blob/master/img/OKResult.png)
+
+Demo:
+
+![Image](https://github.com/DannyYang/PMR_CreateUserStoredLargeData/blob/master/img/demo.gif)
