@@ -65,6 +65,7 @@ public class AuthSecurityCheck extends UserAuthenticationSecurityCheck {
             try {
                 // large JSON String data
                 attrObject = JSONObject.parse(largeJSONString);
+
                 // small JSON String data
                 // attrObject = JSONObject.parse(smallJSONString);
                 return true;
