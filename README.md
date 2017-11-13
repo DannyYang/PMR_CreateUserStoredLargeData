@@ -15,6 +15,6 @@ Steps :
    >1. cd PMR_LargeUser_Data
    >2. mfpdev app register
 
-4. Add "AuthSecurityCheckScope" that mapping "SecurityTest"
+4. Add "AuthSecurityCheckScope" that mapping "SecurityTest" (Android & iOS)
 
 5. run APP in simulator
