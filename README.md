@@ -1,6 +1,7 @@
 # PMR_CreateUserStoredLargeData
 This project is only for PMR. It shows that stored large data to user attribute will get 500 error
 
+![Image](https://github.com/DannyYang/PMR_CreateUserStoredLargeData/blob/master/img/500Error.png)
 
 Steps : 
 1. Build and Deploy Adapters to MFP server (AuthAdapter & ResourceAdapter in TestAdapters folder)
@@ -17,4 +18,10 @@ Steps :
 
 4. Add "AuthSecurityCheckScope" that mapping "SecurityTest" (Android & iOS)
 
+![Image](https://github.com/DannyYang/PMR_CreateUserStoredLargeData/blob/master/img/addScope.png)
+
 5. run APP in simulator
+
+6. if you use smaller JSON string object, it will be ok.
+
+![Image](https://github.com/DannyYang/PMR_CreateUserStoredLargeData/blob/master/img/OKResult.png)
